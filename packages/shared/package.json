@@ -64,7 +64,7 @@
     "@google-cloud/storage": "^7.15.2",
     "@langchain/anthropic": "^0.3.21",
     "@langchain/aws": "^0.1.10",
-    "@langchain/core": "^0.3.57",
+    "@langchain/core": "^0.3.80",
     "@langchain/google-genai": "^0.2.10",
     "@langchain/google-vertexai": "^0.2.10",
     "@langchain/openai": "^0.5.12",
